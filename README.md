@@ -21,11 +21,7 @@ Data used for this analysis were anonymised in line with the Information Commiss
 ## How does it work?
 
 As the data used for this analysis is not publically available, the code cannot be used to replicate the analysis on this dataset. However, with modifications the code will be able to be used on other patient-level HES Admitted Patient Care extracts. However, once [statistical disclosure checks](https://ukdataservice.ac.uk/media/622521/thf_datareport_aw_web.pdf) have been completed, aggregate outputs of this analysis can be made available.
-
-
-## How does it work?
-
-As the data used for this analysis is not publically available, the code cannot be used to replicate the analysis on this dataset. However, with modifications the code will be able to be used on similar datasets.  
+ 
 
 ### Requirements
 
